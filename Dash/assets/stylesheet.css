@@ -1,0 +1,61 @@
+html{
+    width: 100%;
+}
+
+
+.banner {
+    height: 75px;
+    margin: 0px -10px 10px;
+    background-color: rgb(3, 16, 33);
+    border-radius: 2px;
+}
+
+.banner h2{
+    color: rgb(3, 16, 33);
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.banner Img{
+    position: relative;
+    float:left;
+    right: -20px;
+    height: 75px;
+}
+
+  
+#my_radio_items2{
+    color: white;
+    flex: 2;
+  }
+
+#my_radio_items{
+    color: white;
+    flex: 2;
+  }
+  
+#my_radio_items2 > div {
+    display: flex;
+  }
+
+#text1{
+    color: white;
+}
+
+.row{
+    margin: 0;
+}
+
+#Texto_sn{
+    text-align: justify;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+
+#Titulo_sn{
+    color: white;
+}
+
